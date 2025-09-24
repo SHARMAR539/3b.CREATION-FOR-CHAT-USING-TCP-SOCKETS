@@ -9,8 +9,8 @@ To write a python program for creating Chat using TCP Sockets Links.
 4. Send and receive the message using the send function in socket.
 
 ```
-NAME:GURUPARAN G
-REG NO:212224220030
+NAME: SHARMA R
+REG NO:212224230261
 ```
 ## PROGRAM
 
@@ -40,8 +40,8 @@ while True:
 
 
 ## OUPUT
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1ac21c26-00eb-491e-84ed-a3067cac78a9" />
 
-<img width="1917" height="1133" alt="Screenshot 2025-09-22 115231" src="https://github.com/user-attachments/assets/2a377fce-9bcc-47c2-98cb-0a3d17b6fbdc" />
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
